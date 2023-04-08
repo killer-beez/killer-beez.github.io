@@ -1,6 +1,7 @@
-	---
-  permalink: /info
-  ---
+---
+permalink: /info/
+title: "Info"
+---
 
   # test
 
