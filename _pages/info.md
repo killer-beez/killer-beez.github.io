@@ -1,4 +1,8 @@
 	---
-  permalink: /info/
+  permalink: /info
   ---
+
+  # test
+
+
 
