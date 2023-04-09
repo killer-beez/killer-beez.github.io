@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "sunrise" #"default" # "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Killer Beez Hockey"
+title                    : "This is the title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Killer Beez"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : #"Your Name"
   avatar           : "/assets/images/bee.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "We play hockey."
+  bio              : "This is who we are and what we do"
   location         : "KCIC"
   email            :
   links:
