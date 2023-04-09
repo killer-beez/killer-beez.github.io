@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "sunrise" #"default" # "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "This is the title"
+title                    : "Beez"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Killer Beez"
@@ -298,3 +298,5 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        overlay_image: /assets/images/banner_jersey1200.jpg
