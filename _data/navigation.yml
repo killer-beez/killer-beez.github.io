@@ -10,5 +10,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Schedule"
+    url: /schedule
   - title: "Info"
     url: /info

@@ -3,7 +3,6 @@ permalink: /info/
 title: "Info"
 ---
 
-  # test
-
+testing info page
 
 
