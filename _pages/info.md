@@ -1,10 +1,9 @@
 ---
 permalink: /info/
-title: "Info"
+title: Info
+published: true
 ---
 
 Killer Beez Hockey
 
-
-
-
+More infomration coming soon.
