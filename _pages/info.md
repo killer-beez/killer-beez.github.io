@@ -3,6 +3,8 @@ permalink: /info/
 title: "Info"
 ---
 
-testing info page
+Killer Beez Hockey
+
+
 
 
