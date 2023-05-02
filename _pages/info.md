@@ -6,4 +6,4 @@ published: true
 
 Killer Beez Hockey
 
-More infomration coming soon.
+More information coming soon.
