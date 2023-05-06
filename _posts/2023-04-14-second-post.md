@@ -5,3 +5,5 @@ this is what another post would look like
 - is
 - a
 - list
+
+{% include video id="dyjcKZDA0tg" provider="youtube" %}
